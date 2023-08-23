@@ -1,3 +1,5 @@
+package socket;
+
 import lombok.NoArgsConstructor;
 
 import java.net.URISyntaxException;
